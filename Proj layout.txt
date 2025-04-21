@@ -1,0 +1,25 @@
+proj01
+├── conf/
+│   ├── prog/
+│   │   ├── .info
+│   │   ├── fail.c
+│   │   ├── simple.c
+│   │   └── zeontwthfofisiseeini.c
+│   ├── sshd/
+│   │   ├── .info
+│   │   ├── sshd_alt_config
+│   │   └── sshd_config
+│   ├── www1/
+│   │   ├── .info
+│   │   ├── mime.types
+│   │   ├── nginx.conf
+│   │   └── www.conf
+│   ├── www2/
+│   │   ├── .info
+│   │   ├── mime.types
+│   │   └── www.conf
+│   └── www3/
+│       ├── mime.types
+│       ├── nginx.conf
+│       └── www.conf
+└── proj01.sh
