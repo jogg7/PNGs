@@ -24,7 +24,7 @@ $ ./proj01.sh
 4) www2
 5) www3
 Choose a configuration directory from the following list: 3
-[sudo] password for kscrivnor:
+[sudo] password for jogg:
 Configuration file www.conf passed test.
 Configuration file nginx.conf passed test.
 Out of 2 configuration files, 2 were successful.
