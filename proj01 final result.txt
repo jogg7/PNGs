@@ -1,0 +1,48 @@
+$ ./proj01.sh
+1) prog
+2) sshd
+3) www1
+4) www2
+5) www3
+Choose a configuration directory from the following list: 0
+No configuration directory chosen. Bye
+$ ./proj01.sh
+1) prog
+2) sshd
+3) www1
+4) www2
+5) www3
+Choose a configuration directory from the following list: 1
+Configuration file simple.c passed test.
+Configuration file zeontwthfofisiseeini.c passed test.
+Configuration file fail.c failed test.
+Out of 3 configuration files, 2 were successful.
+$ ./proj01.sh
+1) prog
+2) sshd
+3) www1
+4) www2
+5) www3
+Choose a configuration directory from the following list: 3
+[sudo] password for kscrivnor:
+Configuration file www.conf passed test.
+Configuration file nginx.conf passed test.
+Out of 2 configuration files, 2 were successful.
+$ ./proj01.sh
+1) prog
+2) sshd
+3) www1
+4) www2
+5) www3
+Choose a configuration directory from the following list: 4
+Configuration file www.conf passed test.
+Missing file nginx.conf from .info.
+Out of 2 configuration files, 1 were successful.
+$ ./proj01.sh
+1) prog
+2) sshd
+3) www1
+4) www2
+5) www3
+Choose a configuration directory from the following list: 5
+No .info file found. Bye
